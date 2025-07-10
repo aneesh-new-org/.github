@@ -1,4 +1,4 @@
-name: Validaciones test
+name: Validation test
 
 on:
   pull_request:
